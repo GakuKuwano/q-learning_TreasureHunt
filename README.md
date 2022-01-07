@@ -45,7 +45,7 @@ Jupyter Notebookを起動して，train.ipynbを実行する
 ```
 
 ## DEMO
-time_intervalの値を変更することでシミュレーションを可視化する回数を変更できます．
+train.pyのtime_intervalの値を変更することでシミュレーションを可視化する回数を変更できます．
 
 ### time_interval = 100 の場合
 
